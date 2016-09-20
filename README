@@ -1,4 +1,4 @@
 HMM.py is an example implementation of 1st order discrete Hidden Markov model.
 HMM_test.py perfroms a predictive test on the model with a varying test window.
 The model's performance and implementation are discussed on my blog in more detail:
-http://wp.me/p5lN0i-gW
+https://codefying.com/2016/09/19/a-tutorial-on-hidden-markov-model-with-a-stock-price-example-part-2/
